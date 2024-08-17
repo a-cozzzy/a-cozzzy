@@ -1,5 +1,5 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
-<h1 align="center">Hello!👋 I'm Adithi H</h1>
+<h1 align="center">Hello!👋 I'm Adithi H </h1>
 <h3 align="center">A Passionate Tech Enthusiast and a CSE Undergrad.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
@@ -18,7 +18,7 @@
   <img 
     src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" 
     alt="Instagram" 
-    style="width: 115px;" 
+    style="width: 116px;" 
   />
 </a>
 <a href="https://linkedin.com/in/adithi-h-03841a30a/">

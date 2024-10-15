@@ -7,7 +7,7 @@
 
 ## 💫 About Me:
 
-🔭 I’m currently working on developing backend in Web Development.<br>🌱 I’m currently involved with AI/ML <br>👤 I'm open for full stack web development projects. <br>📫 How to reach me **adithih03@gmail.com** ^^
+🔭 I’m currently working on Machine Learning.<br>🌱 I’m currently involved with AI/ML <br>📫 How to reach me **adithih03@gmail.com** ^^
 
 <br>
 <br>
